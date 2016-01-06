@@ -1,9 +1,29 @@
+/*
 .column {
   width: 30%;
   float: left;
+  background-color:
 }
-
+*/
 img {
   width: 250px;
   height: auto;
+}
+
+.column1 {
+  width: 30%;
+  float: left;
+  background-color: yellow;
+}
+
+.column2 {
+  width: 40%;
+  float: left;
+  background-color: blue;
+}
+
+.column3 {
+  width: 30%;
+  float: left;
+  background-color: green;
 }
