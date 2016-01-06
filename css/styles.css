@@ -1,0 +1,9 @@
+.column {
+  width: 30%;
+  float: left;
+}
+
+img {
+  width: 250px;
+  height: auto;
+}
